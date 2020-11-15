@@ -3,3 +3,5 @@ Practising new file on Git Hub
 learn
 the 
 Git
+
+adding some more data 2nd time
